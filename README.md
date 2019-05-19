@@ -1,0 +1,24 @@
+# prerender-test-1
+
+> My lovely Nuxt.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+https://medium.com/a-man-with-no-server/static-site-generators-nuxt-js-2fa9782d27c8
